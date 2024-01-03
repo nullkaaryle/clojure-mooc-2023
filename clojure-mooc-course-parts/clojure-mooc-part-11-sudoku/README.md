@@ -1,7 +1,8 @@
-# sudoku
+# Sudoku
 
-I'm part of the [120 hour epic sax marathon](http://iloveponies.github.com/120-hour-epic-sax-marathon/).
+### Course material
+https://iloveponies.github.io/120-hour-epic-sax-marathon/sudoku.html
 
-## Usage
-
-Make a fork of me!
+### Forked from
+https://github.com/iloveponies/sudoku
+https://github.com/iloveponies/sudoku-tests

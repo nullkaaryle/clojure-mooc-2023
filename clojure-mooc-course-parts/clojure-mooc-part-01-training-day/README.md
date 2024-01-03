@@ -1,9 +1,8 @@
-# training-day
+# Training day
 
-[![Build Status](https://travis-ci.org/iloveponies/training-day.png?branch=master)](https://travis-ci.org/iloveponies/training-day)
+### Course material
+https://iloveponies.github.io/120-hour-epic-sax-marathon/training-day.html
 
-I'm part of the [120 hour epic sax marathon](http://iloveponies.github.com/120-hour-epic-sax-marathon/).
-
-## Usage
-
-Make a fork of me!
+### Forked from
+https://github.com/iloveponies/training-day
+https://github.com/iloveponies/training-day-tests

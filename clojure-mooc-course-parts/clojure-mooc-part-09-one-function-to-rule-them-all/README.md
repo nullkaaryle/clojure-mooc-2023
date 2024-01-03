@@ -1,7 +1,8 @@
-# one-function-to-rule-them-all
+# Looping is recursion
 
-I'm part of the [120 hour epic sax marathon](http://iloveponies.github.com/120-hour-epic-sax-marathon/).
+### Course material
+https://iloveponies.github.io/120-hour-epic-sax-marathon/one-function-to-rule-them-all.html
 
-## Usage
-
-Make a fork of me!
+### Forked from
+https://github.com/iloveponies/one-function-to-rule-them-all
+https://github.com/iloveponies/one-function-to-rule-them-all-tests

@@ -1,7 +1,8 @@
-# i-am-a-horse-in-the-land-of-booleans
+# I am a horse in the land of booleans
 
-I'm part of the [120 hour epic sax marathon](http://iloveponies.github.com/120-hour-epic-sax-marathon/).
+### Course material
+https://iloveponies.github.io/120-hour-epic-sax-marathon/I-am-a-horse-in-the-land-of-booleans.html
 
-## Usage
-
-Make a fork of me!
+### Forked from
+https://github.com/iloveponies/i-am-a-horse-in-the-land-of-booleans
+https://github.com/iloveponies/i-am-a-horse-in-the-land-of-booleans-tests

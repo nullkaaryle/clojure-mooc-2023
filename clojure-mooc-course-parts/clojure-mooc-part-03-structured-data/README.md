@@ -1,7 +1,8 @@
-# structured-data
+# Structured data
 
-I'm part of the [120 hour epic sax marathon](http://iloveponies.github.com/120-hour-epic-sax-marathon/).
+### Course material
+https://iloveponies.github.io/120-hour-epic-sax-marathon/structured-data.html
 
-## Usage
-
-Make a fork of me!
+### Forked from
+https://github.com/iloveponies/structured-data
+https://github.com/iloveponies/structured-data-tests

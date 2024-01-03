@@ -1,7 +1,7 @@
-/target
-/lib
-/classes
-/checkouts
+target/
+lib/
+classes/
+checkouts/
 pom.xml
 *.jar
 *.class
@@ -9,3 +9,4 @@ pom.xml
 .lein-failures
 .lein-plugins
 .DS_Store
+.clj-kondo/

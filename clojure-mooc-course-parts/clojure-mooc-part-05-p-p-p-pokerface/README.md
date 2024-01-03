@@ -1,7 +1,8 @@
-# p-p-p-pokerface
+# P-P-P-Pokerface
 
-I'm part of the [120 hour epic sax marathon](http://iloveponies.github.com/120-hour-epic-sax-marathon/).
+### Course material
+https://iloveponies.github.io/120-hour-epic-sax-marathon/p-p-p-pokerface.html
 
-## Usage
-
-Make a fork of me!
+### Forked from
+https://github.com/iloveponies/p-p-p-pokerface
+https://github.com/iloveponies/p-p-p-pokerface-tests
